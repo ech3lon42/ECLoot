@@ -51,6 +51,9 @@ Alternatively you can check the loading progress by opening the console. The loa
 
     ; Note: The following table is structures like the keys on your Numpad.
     ;       It explains which keys to press to cycle the equipment on your character/crosshair target/mark.
+    ; There are 6 Modes. You Switch between Modes with [Numpad 8] (Next Mode) and [Numpad 2] (back to Previous Mode)
+    ; In each Mode you may cycle three types of items (based on their slot).
+    ; [Numpad 7] and [Numpad 9] for the first type, [Numpad 4] and [Numpad 6] for the second type and [Numpad 1] and [Numpad 3] for the third type.
     
     ; **Mode 1 (Chests, Boots, Gloves)**
     ; [Num7] Prev Chest     [Num8] Next Mode    [Num9] Next Chest
