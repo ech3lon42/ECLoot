@@ -30,8 +30,10 @@ Alternatively you can check the loading progress by opening the console. The loa
 
     ; Press [Num0] to switch between Player, Crosshair and Mark Target Mode.
     ; Use [Numpad+] and [Numpad-] to cycle forwards or backwards through your saved Outfits.
-    ; [F12] Create a new outfit from the currently equipped items. It will be saved to a json file in your ECLootOutfits folder in your overwrites directory.
-    ;       Note: Depending on the Mode you are in (Player, Crosshair or Mark) this saves the players items, the items of your crosshair target or the items of your mark.
+    ; [F12] Create a new outfit from the currently equipped items. 
+    ;       It will be saved to a json file in your ECLootOutfits folder in your overwrites directory.
+    ;       Note: Depending on the Mode you are in (Player, Crosshair or Mark) this saves 
+    ;             the players items, the items of your crosshair target or the items of your mark.
 
     ; Equip items to your character, the corsshair target or your mark by pressing the following keys
     
