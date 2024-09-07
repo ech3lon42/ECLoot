@@ -38,11 +38,11 @@ RemoveToolTip:
 	Suspend
 	if (A_IsSuspended) {
 		suspended := 1
-		OSD("NUM Disabled")
+		OSD("Script Disabled")
 	}
 	else {
 		suspended := 0
-		OSD("NUM Enabled")
+		OSD("Script Enabled")
 	}
 return
 
