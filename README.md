@@ -7,6 +7,8 @@ Hotkey based Equipmentmanager for Skyrim written in Papyrus.
 * **Mark Items as Favorites** and Cycle through them at will using Hotkeys.
 * **Cycle through items based on their slot**. For example, you can go through all of your base armors or cycle through all of your boots.
 * Set a **Mark** on any NPC and equip items or entire outfits directly onto your mark.
+* ECLoot makes heavy use of the Numpad to provide a logical method of cycling through items. 
+  If you (like me) do not have a Numpad on your keyboard, you can use the provided AutoHotkey Script to give yourself one and toggle it on demand.
 
 ## Installation
 Create a new Mod in MO2 and drop the contents from this repository into it. Don't forget to activate the lightweight ECLOutfitQuest2.esp plugin, which is marked as ESL and will not take up a slot in your load order.
