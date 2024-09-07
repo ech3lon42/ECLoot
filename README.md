@@ -1,5 +1,5 @@
 # ECLoot
-Hotkey based equipment manager for Skyrim written in Papyrus. 
+Hotkey based equipment manager for Skyrim SE written in Papyrus. 
 
 ## Features
 * Equip Items or entire Outfits on your character, Follower or any NPC quickly and **without using Menus**.
