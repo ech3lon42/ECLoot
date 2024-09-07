@@ -86,7 +86,7 @@ Working on **SSE 1.9.57**
 I was not able to test on other versions of the game yet. May work on other versions or may need recompiling (sources are provided). 
 
 ## Performance
-Code is a bit of a mess but it works. 
+Code is a bit of a mess but it works. During gameplay there is no impact. Only for a short time after loading a save.
 
 ECLoot only processes stuff when you load a save or start a new game. Once this loading is finished there should be no further performance impact. 
 ECLoot is only active when you press hotkeys to cycle equipment.
