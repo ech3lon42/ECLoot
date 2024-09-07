@@ -1,5 +1,5 @@
 # ECLoot
-Hotkey based Equipmentmanager for Skyrim written in Papyrus. 
+Hotkey based equipment manager for Skyrim written in Papyrus. 
 
 ## Features
 * Equip Items or entire Outfits on your character, Follower or any NPC quickly and **without using Menus**.
@@ -7,8 +7,8 @@ Hotkey based Equipmentmanager for Skyrim written in Papyrus.
 * **Mark Items as Favorites** and Cycle through them at will using Hotkeys.
 * **Cycle through items based on their slot**. For example, you can go through all of your base armors or cycle through all of your boots.
 * Set a **Mark** on any NPC and equip items or entire outfits directly onto your mark.
-* ECLoot makes heavy use of the Numpad to provide a logical method of cycling through items. 
-  If you (like me) do not have a Numpad on your keyboard, you can use the provided AutoHotkey Script to give yourself one and toggle it on demand.
+* ECLoot makes heavy use of the **Numpad** to provide a logical method of cycling through items. 
+  If you (like me) do not have a Numpad on your keyboard, you can use the provided [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey/releases/tag/v1.1.37.02) Script to give yourself one and toggle it on demand.
 
 ## Installation
 Create a new Mod in MO2 and drop the contents from this repository into it. Don't forget to activate the lightweight ECLOutfitQuest2.esp plugin, which is marked as ESL and will not take up a slot in your load order.
@@ -83,8 +83,10 @@ Should be compatible with everything as it does not touch existing records. The 
 ## Supported Versions
 Working on **SSE 1.9.57**
 
+I was not able to test on other versions of the game yet. May work on other versions or may need recompiling (sources are provided). 
+
 ## Performance
-Code is a bit of a mess but it works. 
+Code is a bit of a mess but it works. During gameplay there is no impact. Only for a short time after loading a save.
 
 ECLoot only processes stuff when you load a save or start a new game. Once this loading is finished there should be no further performance impact. 
 ECLoot is only active when you press hotkeys to cycle equipment.
