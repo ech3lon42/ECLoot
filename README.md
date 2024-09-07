@@ -82,6 +82,7 @@ Should be compatible with everything as it does not touch existing records. The 
 
 ## Supported Versions
 Working on **SSE 1.9.57**
+I was not able to test on other versions of the game yet and need your feedback. May work on other versions or may need recompiling (sources are provided). 
 
 ## Performance
 Code is a bit of a mess but it works. 
