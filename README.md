@@ -77,6 +77,8 @@ Alternatively you can check the loading progress by opening the console. The loa
     ; [Num4] Prev Unk8      [Num5] Undo         [Num6] Next Unk8
     ; [Num1]                [Num2] Prev Mode    [Num3] 
 
+![Alt text](controls.png)
+
 ## Compatibility
 Should be compatible with everything as it does not touch existing records. The default hotkeys might conflict with hotkeys from other mods. Remember that you can disable/enable ECLoot Hotkeys by pressing [L]. You can change this key in the MCM.
 
